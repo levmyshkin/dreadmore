@@ -1,0 +1,7 @@
+{
+    "name": "levmyshkin/dreadmore",
+    "description": "The plugin for collapsing and expanding long blocks of text. You can DISABLE it using CSS!",
+    "type": "drupal-library",
+    "license": "MIT",
+    "require": {}
+}
