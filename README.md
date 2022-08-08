@@ -8,6 +8,7 @@
 	<a href="https://www.buymeacoffee.com/DSekon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 214px !important;" ></a>
 </p>
 
+#### Forked from https://github.com/DSekon/DReadMore for using as drupal-library.
 #### The plugin for collapsing and expanding long blocks of text. You can DISABLE it using CSS!
 ### [Demo](https://dreadmore.dsekon.com "Demo")
 ## Getting Started With DReadMore
